@@ -195,5 +195,4 @@ public abstract class AnotB extends SetOperation {
    */
   public abstract CompactSketch aNotB(Sketch skA, Sketch skB, boolean dstOrdered,
       WritableMemory dstMem);
-
 }
