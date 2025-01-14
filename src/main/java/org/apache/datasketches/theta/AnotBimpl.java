@@ -38,7 +38,7 @@ final class AnotBimpl extends AnotB {
   private final short seedHash_;
   private boolean empty_;
   private long thetaLong_;
-  private long[] hashArr_ = new long[0]; //compact array w curCount_ entries
+  private long[] hashArr_ = new long[0]; // compact array w curCount_ entries
   private int curCount_;
 
   /**
